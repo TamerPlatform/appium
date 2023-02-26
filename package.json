@@ -49,7 +49,7 @@
     "argparse": "~0.1.15",
     "async": "~0.9.0",
     "binary-cookies": "~0.1.1",
-    "body-parser": "~1.4.3",
+    "body-parser": "~1.20.1",
     "bplist-creator": "~0.0.4",
     "bplist-parser": "~0.0.5",
     "bufferpack": "0.0.6",
