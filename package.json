@@ -78,7 +78,7 @@
     "plist": "~1.0.0",
     "prompt": "~0.2.13",
     "q": "~1.0.1",
-    "request": "~2.36.0",
+    "request": "~2.88.2",
     "rimraf": "~2.2.8",
     "sandboxed-module": "~1.0.0",
     "serve-favicon": "~2.0.0",
