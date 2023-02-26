@@ -87,7 +87,7 @@
     "temp": "~0.8.0",
     "through": "~2.3.4",
     "touch": "0.0.3",
-    "underscore": "~1.6.0",
+    "underscore": "~1.13.6",
     "underscore.string": "~2.3.3",
     "unzip": "~0.1.9",
     "utf7": "~1.0.0",
