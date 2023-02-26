@@ -82,7 +82,7 @@
     "rimraf": "~2.2.8",
     "sandboxed-module": "~1.0.0",
     "serve-favicon": "~2.0.0",
-    "socket.io": "~1.0.2",
+    "socket.io": "~1.7.4",
     "swig": "~1.4.1",
     "temp": "~0.8.0",
     "through": "~2.3.4",
